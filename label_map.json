@@ -1,0 +1,8 @@
+{
+  "fake": 1,
+  "FAKE": 1,
+  "Fake": 1,
+  "real": 0,
+  "REAL": 0,
+  "Real": 0
+}
